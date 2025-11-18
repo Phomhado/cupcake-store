@@ -93,3 +93,8 @@ Basic database modeling
 Requirements engineering
 
 Delivery of a working software prototype
+
+EVIDENCIAS DE TESTE (LAUDO)
+
+<img width="299" height="139" alt="image" src="https://github.com/user-attachments/assets/c3d5f515-06b7-4f8f-af06-9d796b2d90cb" />
+Price now has a placeholder of BRL (R$) and Allergy Warning naming is correct. Dark mode is also setted to follow the OS of the user
